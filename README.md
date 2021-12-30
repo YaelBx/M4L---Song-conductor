@@ -1,6 +1,8 @@
 # MaxForLive - Song conductor
 A way to quickly arm channels, fire clips and jump to locator when performing multiple songs.
 
+<img src="./resources/ConductorGUI.png">
+
 ## Versions
 **To be done.**
 
